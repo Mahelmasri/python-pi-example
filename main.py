@@ -3,3 +3,5 @@ def main (msg):
 // A different comment
 // Print a message
 main ("Hello People")
+
+// A third comment
